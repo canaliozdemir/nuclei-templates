@@ -1,13 +1,4 @@
-cves/2022/CVE-2022-33965.yaml
-cves/2022/CVE-2022-40083.yaml
-exposed-panels/nordex-wind-farm-portal.yaml
-exposures/configs/babel-config-exposure.yaml
-exposures/configs/guard-config.yaml
-exposures/configs/rollup-js-config.yaml
-exposures/configs/scrutinizer-config.yaml
-exposures/files/npm-anonymous-cli.yaml
-miscellaneous/x-recruiting-header.yaml
-misconfiguration/apache-drill-exposure.yaml
-misconfiguration/locust-exposure.yaml
-technologies/aqua-enterprise-detect.yaml
-technologies/google-frontend-httpserver.yaml
+exposed-panels/aircube-dashboard-panel.yaml
+exposed-panels/mag-dashboard-panel.yaml
+exposed-panels/netris-dashboard-panel.yaml
+misconfiguration/installer/metaview-explorer-installer.yaml
